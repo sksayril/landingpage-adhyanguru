@@ -22,9 +22,9 @@ import type { TeamMember } from "@shared/schema";
 const leadership: TeamMember[] = [
   {
     id: "1",
-    name: "Dr. Rajesh Kumar",
-    role: "Founder & CEO",
-    bio: "Former IIT Bombay professor with 20+ years in education technology and AI research. Passionate about democratizing quality education.",
+    name: "Biplop Roy",
+    role: "Founder",
+    bio: "Visionary founder dedicated to transforming education through innovative technology and AI-powered solutions.",
     image: "",
     socials: {
       twitter: "https://twitter.com",
@@ -33,23 +33,12 @@ const leadership: TeamMember[] = [
   },
   {
     id: "2",
-    name: "Priya Sharma",
-    role: "Chief Technology Officer",
-    bio: "Ex-Google engineer specializing in machine learning and distributed systems. Led teams at Facebook and Microsoft.",
+    name: "Sk Sayril Amed",
+    role: "CEO",
+    bio: "Strategic leader driving the company's mission to make quality education accessible to all students.",
     image: "",
     socials: {
       twitter: "https://twitter.com",
-      linkedin: "https://linkedin.com",
-      github: "https://github.com",
-    },
-  },
-  {
-    id: "3",
-    name: "Amit Patel",
-    role: "Chief Product Officer",
-    bio: "Product leader with experience at Coursera, Udemy, and Khan Academy. Stanford MBA with focus on ed-tech.",
-    image: "",
-    socials: {
       linkedin: "https://linkedin.com",
     },
   },
@@ -57,52 +46,28 @@ const leadership: TeamMember[] = [
 
 const teamMembers: TeamMember[] = [
   {
-    id: "4",
-    name: "Dr. Sneha Reddy",
-    role: "Head of AI Research",
-    bio: "PhD in NLP from Stanford, pioneering conversational AI for education.",
+    id: "3",
+    name: "Nargis Sultana",
+    role: "Management Team Lead",
+    bio: "Experienced management professional ensuring smooth operations and team coordination across all departments.",
     image: "",
-    socials: { linkedin: "https://linkedin.com", github: "https://github.com" },
+    socials: { linkedin: "https://linkedin.com" },
+  },
+  {
+    id: "4",
+    name: "Samrin Sultana",
+    role: "Marketing Team Leader",
+    bio: "Creative marketing strategist building brand awareness and connecting with students and educators worldwide.",
+    image: "",
+    socials: { twitter: "https://twitter.com", linkedin: "https://linkedin.com" },
   },
   {
     id: "5",
-    name: "Vikram Singh",
-    role: "Head of Design",
-    bio: "Award-winning UX designer focused on creating delightful learning experiences.",
-    image: "",
-    socials: { twitter: "https://twitter.com", linkedin: "https://linkedin.com" },
-  },
-  {
-    id: "6",
-    name: "Ananya Gupta",
-    role: "Head of Content",
-    bio: "Former curriculum designer at NCERT with expertise in pedagogical innovation.",
-    image: "",
-    socials: { linkedin: "https://linkedin.com" },
-  },
-  {
-    id: "7",
-    name: "Rahul Menon",
-    role: "Engineering Manager",
-    bio: "10+ years building scalable platforms at Amazon and Flipkart.",
+    name: "Kabita Das",
+    role: "Senior Developer",
+    bio: "Expert software engineer building scalable and innovative solutions for the education platform.",
     image: "",
     socials: { linkedin: "https://linkedin.com", github: "https://github.com" },
-  },
-  {
-    id: "8",
-    name: "Kavya Nair",
-    role: "Head of Marketing",
-    bio: "Growth marketing expert with experience scaling startups to millions of users.",
-    image: "",
-    socials: { twitter: "https://twitter.com", linkedin: "https://linkedin.com" },
-  },
-  {
-    id: "9",
-    name: "Aditya Krishnan",
-    role: "Head of Operations",
-    bio: "Operations leader who scaled BYJU'S from 1M to 50M students.",
-    image: "",
-    socials: { linkedin: "https://linkedin.com" },
   },
 ];
 

@@ -50,14 +50,14 @@ const contactInfo = [
   {
     icon: Phone,
     title: "Call Us",
-    details: "+91 1234 567 890",
+    details: "+91 9265417748",
     subtext: "Mon-Sat, 9am-6pm IST",
   },
   {
     icon: MapPin,
     title: "Visit Us",
-    details: "123 Tech Park, Bangalore",
-    subtext: "Karnataka, India 560001",
+    details: "74/2 Incinerator Road, Lp 81/5/1/1, Dum Dum Cant, Nagerbazar, Kolkata",
+    subtext: "Kolkata, West Bengal, India, 700028",
   },
   {
     icon: Clock,
@@ -346,7 +346,7 @@ export default function Contact() {
                     <div className="text-center">
                       <MapPin className="w-12 h-12 text-primary mx-auto mb-2" />
                       <p className="text-sm text-muted-foreground">Interactive map coming soon</p>
-                      <p className="text-xs text-muted-foreground mt-1">123 Tech Park, Bangalore, India</p>
+                      <p className="text-xs text-muted-foreground mt-1">74/2 Incinerator Road, Lp 81/5/1/1, Dum Dum Cant, Nagerbazar, Kolkata, Kolkata, West Bengal, India, 700028</p>
                     </div>
                   </div>
                 </Card>

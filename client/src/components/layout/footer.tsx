@@ -190,11 +190,11 @@ export function Footer() {
                 </div>
                 <div className="flex items-center gap-3 text-sm text-muted-foreground">
                   <Phone className="w-4 h-4 text-primary" />
-                  <span>+91 1234 567 890</span>
+                  <span>+91 9265417748</span>
                 </div>
                 <div className="flex items-center gap-3 text-sm text-muted-foreground">
                   <MapPin className="w-4 h-4 text-primary" />
-                  <span>Bangalore, India</span>
+                  <span>74/2 Incinerator Road, Lp 81/5/1/1, Dum Dum Cant, Nagerbazar, Kolkata, Kolkata, West Bengal, India, 700028</span>
                 </div>
               </div>
 

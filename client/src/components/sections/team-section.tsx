@@ -9,9 +9,9 @@ import type { TeamMember } from "@shared/schema";
 const teamMembers: TeamMember[] = [
   {
     id: "1",
-    name: "Dr. Rajesh Kumar",
-    role: "Founder & CEO",
-    bio: "Former IIT professor with 20+ years in education technology and AI research.",
+    name: "Biplop Roy",
+    role: "Founder",
+    bio: "Visionary founder dedicated to transforming education through innovative technology and AI-powered solutions.",
     image: "",
     socials: {
       twitter: "https://twitter.com",
@@ -20,21 +20,20 @@ const teamMembers: TeamMember[] = [
   },
   {
     id: "2",
-    name: "Priya Sharma",
-    role: "Chief Technology Officer",
-    bio: "Ex-Google engineer specializing in machine learning and distributed systems.",
+    name: "Sk Sayril Amed",
+    role: "CEO",
+    bio: "Strategic leader driving the company's mission to make quality education accessible to all students.",
     image: "",
     socials: {
       twitter: "https://twitter.com",
       linkedin: "https://linkedin.com",
-      github: "https://github.com",
     },
   },
   {
     id: "3",
-    name: "Amit Patel",
-    role: "Head of Product",
-    bio: "Product leader with experience at top ed-tech companies including Coursera and Udemy.",
+    name: "Nargis Sultana",
+    role: "Management Team Lead",
+    bio: "Experienced management professional ensuring smooth operations and team coordination across all departments.",
     image: "",
     socials: {
       linkedin: "https://linkedin.com",
@@ -42,35 +41,24 @@ const teamMembers: TeamMember[] = [
   },
   {
     id: "4",
-    name: "Dr. Sneha Reddy",
-    role: "Head of AI Research",
-    bio: "PhD in NLP from Stanford, pioneering conversational AI for education.",
+    name: "Samrin Sultana",
+    role: "Marketing Team Leader",
+    bio: "Creative marketing strategist building brand awareness and connecting with students and educators worldwide.",
     image: "",
     socials: {
       twitter: "https://twitter.com",
       linkedin: "https://linkedin.com",
-      github: "https://github.com",
     },
   },
   {
     id: "5",
-    name: "Vikram Singh",
-    role: "Head of Design",
-    bio: "Award-winning UX designer focused on creating delightful learning experiences.",
-    image: "",
-    socials: {
-      twitter: "https://twitter.com",
-      linkedin: "https://linkedin.com",
-    },
-  },
-  {
-    id: "6",
-    name: "Ananya Gupta",
-    role: "Head of Content",
-    bio: "Former curriculum designer at NCERT with expertise in pedagogical innovation.",
+    name: "Kabita Das",
+    role: "Senior Developer",
+    bio: "Expert software engineer building scalable and innovative solutions for the education platform.",
     image: "",
     socials: {
       linkedin: "https://linkedin.com",
+      github: "https://github.com",
     },
   },
 ];

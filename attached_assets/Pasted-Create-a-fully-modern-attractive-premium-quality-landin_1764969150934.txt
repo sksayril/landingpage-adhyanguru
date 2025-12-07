@@ -1,0 +1,110 @@
+Create a fully modern, attractive, premium-quality landing page UI for an education technology platform named **Adhyan Guru**.
+
+The landing page must be built using **React or Next.js** with clean folder structure, reusable components, modular code, and SEO-optimized metadata. Use **Tailwind CSS** for styling and ensure the color theme is **deep sky blue**, futuristic gradient tones, glassmorphism cards, and soft animations.
+
+### PLATFORM DETAILS
+Adhyan Guru is a revolutionary education platform that offers:
+- Student learning dashboard
+- Parents panel for child performance tracking
+- Live location tracking for student safety (bus tracking)
+- Class-based learning modules
+- Competitive exam preparation (JEE, NEET, UPSC, SSC, etc.)
+- AI Tutor for personalized learning
+- Doubt-solving with AI
+- Our own social media platform "Adhyan Social" where students can upload talent and share with the world
+- Technologies used section: Node.js, React, Next.js, Flutter, Generative AI, MongoDB
+
+### LANDING PAGE REQUIREMENTS
+Build a complete landing page with the following sections:
+
+1. **Hero Section**
+   - Deep sky-blue gradient background
+   - Attractive cartoon-style illustration showing AI tutor + students learning
+   - Heading: "Welcome to Adhyan Guru – The Future of Learning"
+   - Subheading about AI-powered education
+   - Call to Action buttons:
+     - “Get Started”
+     - “Download App”
+   - Soft animated shapes & AI icons
+
+2. **Key Features Section**
+   Cards with icons and smooth hover animation:
+   - AI Tutor
+   - Live Location Tracking
+   - Parents Progress Tracking
+   - Competitive Exam Learning
+   - Class-wise Courses
+   - Adhyan Social (Talent Sharing Platform)
+
+3. **Student & Parent Tracking Section**
+   - Illustration of a parent dashboard
+   - Explain real-time progress tracking
+   - GPS bus tracking UI preview
+
+4. **AI Features Section**
+   - AI tutor UI mockup
+   - Chat-based doubt solver snippet
+   - Personalised learning recommendation cards
+
+5. **Adhyan Social Section**
+   - Showcase students posting videos/images
+   - Grid-style preview
+   - CTA: “Share Your Talent with the World”
+
+6. **Our Technologies Section**
+   Icons + short descriptions:
+   - Node.js
+   - React.js
+   - Next.js
+   - Flutter
+   - Generative AI
+   - MongoDB
+
+7. **Our Team Section**
+   - Profile cards with soft neumorphism effect
+
+8. **Footer**
+   - Quick navigation links
+   - Social media links
+   - Copyright
+   - SEO footer text
+
+### DESIGN REQUIREMENTS
+- Aesthetic, premium, futuristic UI
+- Deep sky blue as primary color
+- Smooth animations using Framer Motion
+- High-level responsiveness for all screen sizes
+- Clean typography using Inter / Poppins
+- Professional spacing & layout
+- Modern iconography
+- Glassmorphism / gradients for depth
+
+### ROUTING REQUIREMENTS
+Generate a multi-page structure:
+- / → Landing page
+- /courses → Course list
+- /social → Adhyan Social page
+- /team → Our Team
+- /contact → Contact Page
+
+### SEO REQUIREMENTS
+Include:
+- Meta title
+- Meta description
+- OpenGraph tags
+- Schema markup JSON-LD
+- Clean URLs
+- Semantic HTML tags
+
+### OUTPUT FORMAT
+Return:
+- Full folder structure
+- React/Next.js code for all sections
+- Component-based architecture
+- Tailwind config enhancements
+- SEO metadata examples
+- Hero illustration AI prompt
+- Dummy images using placeholders
+
+Make the UI extremely modern, premium-looking, and visually hypnotic but elegant, suitable for an ed-tech platform in 2025.
+
